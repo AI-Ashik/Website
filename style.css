@@ -1,0 +1,57 @@
+.border-gray-200,.bg-gray-100{
+
+    background-color: black;
+    color: white;
+    }
+    
+    .border-gray-200,.bg-gray-100 p{
+    
+    color: white;
+    
+    }
+    
+        .list-none a {
+    
+            font-weight: 5000;
+            color: black;
+    
+        }
+    
+        .list-none a:hover {
+            text-decoration: underline;
+            color: grey;
+            cursor: pointer;
+    
+    
+        }
+    
+        .text-gray-600 h2 {
+    
+            font-weight: bold;
+            font-size: 1.3rem;
+    
+    
+        }
+    
+        header .ml-3 {
+    
+    
+            font-size: 1.8rem;
+    
+        }
+    
+        .border-t a:hover {
+    
+            background-color: rgb(131, 124, 124);
+            border-radius: 5px;
+    
+        }
+
+        .flex-wrap{
+
+
+background-color: antiquewhite;
+
+        }
+
+
